@@ -1,0 +1,4 @@
+baseURL = 'http://www.familyfavs.com/'
+languageCode = 'en-us'
+title = 'Family Favs'
+theme = 'ananke'
